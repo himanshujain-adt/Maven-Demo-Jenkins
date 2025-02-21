@@ -11,7 +11,7 @@ public class NewProjectApplication {
 		System.out.println("New Project is running..properly!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("New Project is running..properly!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("New Project is running..properly!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
-		System.out.println("New Project is running..properly!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+		System.out.println("New Project is running..properly!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 	}
 
 }
