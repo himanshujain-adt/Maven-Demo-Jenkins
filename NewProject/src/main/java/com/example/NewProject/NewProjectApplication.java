@@ -8,7 +8,7 @@ public class NewProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NewProjectApplication.class, args);
-		System.out.println("New Project is running");
+		System.out.println("New Project is running..properly");
 	}
 
 }
